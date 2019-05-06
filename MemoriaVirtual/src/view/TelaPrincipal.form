@@ -3015,7 +3015,7 @@
                                           </Group>
                                           <Group type="102" attributes="0">
                                               <Component id="jTextField19" max="32767" attributes="0"/>
-                                              <EmptySpace min="-2" pref="383" max="-2" attributes="0"/>
+                                              <EmptySpace min="-2" pref="537" max="-2" attributes="0"/>
                                           </Group>
                                       </Group>
                                       <Component id="VoltarE3" min="-2" max="-2" attributes="0"/>

@@ -2155,7 +2155,7 @@ public class TelaPrincipal extends javax.swing.JFrame {
                                         .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED, 561, Short.MAX_VALUE))
                                     .addGroup(PanelEx3Layout.createSequentialGroup()
                                         .addComponent(jTextField19)
-                                        .addGap(383, 383, 383)))
+                                        .addGap(537, 537, 537)))
                                 .addComponent(VoltarE3)
                                 .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
                                 .addComponent(jLabel87, javax.swing.GroupLayout.PREFERRED_SIZE, 25, javax.swing.GroupLayout.PREFERRED_SIZE)
