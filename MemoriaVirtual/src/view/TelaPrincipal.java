@@ -317,7 +317,7 @@ public class TelaPrincipal extends javax.swing.JFrame {
         jLabel4.setText("MEMÓRIA VIRTUAL:");
 
         jLabel30.setFont(new java.awt.Font("Tahoma", 0, 24)); // NOI18N
-        jLabel30.setText("Algorítmo de Tradução");
+        jLabel30.setText("Algorítmo de Paginação de Memória");
 
         javax.swing.GroupLayout jPanel1Layout = new javax.swing.GroupLayout(jPanel1);
         jPanel1.setLayout(jPanel1Layout);
@@ -339,9 +339,9 @@ public class TelaPrincipal extends javax.swing.JFrame {
                 .addGroup(PanelInicialLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
                     .addComponent(jLabel4, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
                     .addGroup(PanelInicialLayout.createSequentialGroup()
-                        .addGap(0, 320, Short.MAX_VALUE)
+                        .addGap(0, 249, Short.MAX_VALUE)
                         .addComponent(jLabel30)
-                        .addGap(0, 321, Short.MAX_VALUE)))
+                        .addGap(0, 250, Short.MAX_VALUE)))
                 .addContainerGap())
             .addGroup(javax.swing.GroupLayout.Alignment.TRAILING, PanelInicialLayout.createSequentialGroup()
                 .addContainerGap(javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
